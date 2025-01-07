@@ -19,6 +19,8 @@ text-align: center;
 border-radius: 8px;
 
 background: rgb(82, 195, 3);
+border: none;
+cursor: pointer;
 
 }
 
@@ -102,10 +104,11 @@ opacity: 0.6;
 
 }
 .card-container{
-    margin-bottom:32px;
+    margin-top:32px;
     display: flex;
     justify-content: space-between;
-    gap: 20px;
+    /* gap: 20px; */
+    font-family: Work Sans;
 }
 .card{
     max-width: 250px;
