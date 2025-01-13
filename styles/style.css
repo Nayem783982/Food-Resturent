@@ -118,6 +118,10 @@ opacity: 0.6;
     justify-content: center;
     align-items: center;
 }
+.card-discription{
+    text-align: center;
+    padding-left: 20px;
+}
 .card .image-box{
     width: 250px;
 }
@@ -128,6 +132,41 @@ opacity: 0.6;
     background-color: aqua;
     padding: 10px 18px 10px 18px;
     border-radius: 8px;
+    background: rgba(82, 195, 3, 0.15);
+}
+/* style about uss */
+.about-us-container{
+    height: 400px;
+    border: 1px solid black;
+    display: flex;
+}
 
-background: rgba(82, 195, 3, 0.15);
+.foods{
+    width: 800px;
+    height: 400px;
+}
+.div-2{
+    text-align: center;
+    align-items: center;
+    padding: 130px 50px;
+}
+.div-2-button{
+    border: none;
+    background-color: none;
+}
+.padding{
+    padding-bottom: 20px;
+}
+.div-2-title{
+    font-size: 30px;
+    font-weight: 700px;
+}
+.div-3{
+    padding-top: 20px;
+}
+/* nav style */
+
+.nav{
+    margin-top: 80px;
+    background-color: rgba(0, 0, 0, 0.616);
 }
